@@ -1,2 +1,2 @@
-# Factura_Prueba
-Primer proyecto de Github
+# factura
+Ejemplo de modelado implementado en Java
