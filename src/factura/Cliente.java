@@ -11,13 +11,16 @@ package factura;
  */
 public class Cliente {
     private String nombre;
+    private Strng apellido;
+   
 
     public String getNombre() {
         return nombre;
     }
-
+// agrego una cosas ero no se que 
     public void setNombre(String nombre) {
         this.nombre = nombre;
+        
     }
     
     
